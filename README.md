@@ -73,6 +73,33 @@ Beginner-friendly guide to cURL — what it is, why developers use it, and how t
 Compares TCP and UDP, explaining their differences, use cases, and where each protocol is best suited.
 
 ---
+### 🔟 Emmet for HTML: A Beginner’s Guide to Writing Faster Markup
+🔗 https://mehtabblogs.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup  
+📌 **About:**  
+Introduces Emmet and shows how developers can write HTML faster using abbreviations and productivity shortcuts.
+
+---
+
+### 1️⃣1️⃣ CSS Selectors 101: Targeting Elements with Precision
+🔗 https://mehtabblogs.hashnode.dev/css-selectors-101-targeting-elements-with-precision  
+📌 **About:**  
+Explains CSS selectors from basic to advanced, helping beginners precisely target and style HTML elements.
+
+---
+
+### 1️⃣2️⃣ Understanding HTML Tags and Elements
+🔗 https://mehtabblogs.hashnode.dev/understanding-html-tags-and-elements  
+📌 **About:**  
+Covers the fundamentals of HTML tags and elements, including structure, semantics, and common usage patterns.
+
+---
+
+### 1️⃣3️⃣ How a Browser Works: A Beginner-Friendly Guide to Browser Internals
+🔗 https://mehtabblogs.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals  
+📌 **About:**  
+Explains what happens behind the scenes when you enter a URL in a browser—from DNS lookup to page rendering.
+
+---
 
 ## 🚀 About This Blog
 
